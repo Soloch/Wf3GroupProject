@@ -1,0 +1,60 @@
+body {
+	background: black; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(-90deg, pink, #f9b06b); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-90deg, pink, #f9b06b); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(-90deg, pink, #f9b06b); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(-90deg, pink, #f9b06b); /* Standard syntax */
+}
+
+.container {
+	background-color: #eaccd7;
+}
+
+
+.titrelichi {
+	margin-top: 5em;
+}
+
+.imglitchi {
+	margin-left: 20em;
+	margin-top: 2em;
+}
+
+.originelitchi {
+	margin-top: 3em;
+}
+
+.arbrelitchi {
+
+}
+
+.imgarbrelitchi {
+	margin-left: 2.5em;
+}
+
+.nutrilitchi {
+	margin-top: 2em;
+}
+
+.cuisinelitchi  {
+	margin-top: 2em;
+}
+
+li	{
+	list-style: none;
+	font-weight: bold;
+	text-align: center;
+}
+
+.rcd {
+	margin-top: 2em;
+}
+
+.btn-warning {
+	background: black; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(-90deg, pink, #f9b06b); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(-90deg, pink, #f9b06b); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(-90deg, pink, #f9b06b); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(-90deg, pink, #f9b06b); /* Standard syntax */
+  margin-bottom: 1em;
+}
